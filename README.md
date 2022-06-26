@@ -1,7 +1,8 @@
 # Java9Features
 Java 9 Fetures:
 
-1. JShell
+1. JShell : The Java shell(REPL)
+    => It is an interactive tool(play ground) to learn java through command line
 2. JPMS (Java Platform Module System)
 3. JLink (Java Linker)
 4. HTTP/2 Client
